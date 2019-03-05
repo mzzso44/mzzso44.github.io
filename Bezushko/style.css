@@ -1,0 +1,67 @@
+nav{
+	background: #3d3d3d!important;
+}
+.about{
+	background-color: #e8e8e8;
+	margin-left: -15px;
+}
+.bezkoshtovni h5{
+	text-align: center;
+}
+.platni h5{
+	text-align: center;
+}
+.gif{
+	float: right;
+	width: 10%;
+}
+.model{
+	color: black;
+	display: block;
+	-webkit-box-shadow: 0px 10px 72px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 10px 72px -13px rgba(0,0,0,0.75);
+box-shadow: 0px 10px 72px -13px rgba(0,0,0,0.75);
+}
+.model h6{
+	margin-bottom: 0px;
+	font-size: 1rem;
+}
+.model p{
+	color: grey;
+	margin-bottom: 0px;
+	font-size: 0.8rem;
+	text-align: left;
+}
+aside .model h6{
+	margin-bottom: 0px;
+	font-size: 0.8rem;
+}
+aside .model p{
+	color: grey;
+	margin-bottom: 0px;
+	font-size: 0.7rem;
+	text-align: left;
+}
+.model .redaktor{
+	font-weight: bold;
+}
+.model:hover {
+	
+-webkit-box-shadow: 0px 2px 12px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 2px 12px -1px rgba(0,0,0,0.75);
+box-shadow: 0px 2px 12px -1px rgba(0,0,0,0.75);
+	
+}
+.text-gray{
+	color: grey;
+}
+footer{
+	margin-top: 20px;
+	padding: 8px;
+	background-color: #e5e4e4;
+}
+.zic-model {
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+
