@@ -1,0 +1,62 @@
+body{
+
+	background-color: #8c3800;
+}
+.h-bg{
+	height: 400px;
+}
+.last-col, .max-price, .max-popul{
+	background-color: #ffffff;
+}
+.my-nav{
+	text-align: center;
+	margin-top: -38px;
+}
+.my-nav a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.my-nav a:hover{
+	color: #ffffff;
+	background: #33353ac9;
+	color: #f44336;
+}
+
+aside{
+	margin-top: 0px;
+	padding-left: 0px!important;
+	padding-right: 0px!important;
+}
+.top-nedeli{
+	background-color: #e0e0e0;
+}
+.about-card{
+	color: grey;
+}
+.about-tip{
+	font-weight: bold;
+	color: grey;
+
+}
+.model{
+	color: black;
+}
+.wapon:hover {
+	-webkit-box-shadow: 0px 0px 50px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 50px -10px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 50px -10px rgba(0,0,0,0.75);
+
+}
+
+.wapon p{
+	margin-bottom: 0px;
+
+}
+.about-tip:hover img{
+	transform: rotate(15deg)!important;
+	transition-delay: 0.1s;
+}
+footer{
+	background-color: white;
+	margin-bottom: -8px;
+}
